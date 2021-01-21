@@ -1,0 +1,11 @@
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\bin\Debug\netcoreapp2.1\MyList.deps.json
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\bin\Debug\netcoreapp2.1\MyList.runtimeconfig.json
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\bin\Debug\netcoreapp2.1\MyList.runtimeconfig.dev.json
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\bin\Debug\netcoreapp2.1\MyList.dll
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\bin\Debug\netcoreapp2.1\MyList.pdb
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\obj\Debug\netcoreapp2.1\MyList.csprojAssemblyReference.cache
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\obj\Debug\netcoreapp2.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\obj\Debug\netcoreapp2.1\MyList.AssemblyInfoInputs.cache
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\obj\Debug\netcoreapp2.1\MyList.AssemblyInfo.cs
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\obj\Debug\netcoreapp2.1\MyList.dll
+C:\Users\ŞÜKRÜ\source\repos\MyList\MyList\obj\Debug\netcoreapp2.1\MyList.pdb
